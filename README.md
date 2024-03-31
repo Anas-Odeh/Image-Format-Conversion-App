@@ -2,7 +2,7 @@
 
 **What's This Thing All About?**
 
-In a nutshell, Image Format Converter is your go-to if you're looking to convert your pics to this specialized any format. Whether you've got JPEGs, PNGs, TIFs or BMPs, this tool's got you covered. 
+In a nutshell, Image Format Converter is your go-to if you're looking to convert your pics to this specialized any format. Whether you've got JPEGs, PNGs, or TIFs , this tool's got you covered. 
 I've made sure it's super user-friendly because, let's be honest, who wants to fuss with complicated software?
 
 
