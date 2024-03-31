@@ -1,4 +1,4 @@
-# Image Format Conversion App
+# **Image Format Conversion App**
 
 **What's This Thing All About?**
 
