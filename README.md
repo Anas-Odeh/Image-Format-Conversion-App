@@ -25,8 +25,11 @@ I've made sure it's super user-friendly because, let's be honest, who wants to f
 
 ![image](https://github.com/Anas-Odeh/Image-Format-Conversion/assets/133384773/26572f31-8a69-4c0b-b9a1-469c1b44b564)
 
+# After installation, the app should show you the following window: 
 
-2.Pick the images you want to convert.
+
+
+2.Select the input folder of images you want to convert.
 
 3.Choose the desired image format you would like to save as.
 
