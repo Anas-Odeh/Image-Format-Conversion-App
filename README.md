@@ -39,6 +39,8 @@ I've made sure it's super user-friendly because, let's be honest, who wants to f
 
 4.Hit Start Analysis.
 
+5. The Results will be save automatically to the same input folder you select it.
+
 ---
 
 # **Why You Might Want to Use It:**
