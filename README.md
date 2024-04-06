@@ -25,7 +25,9 @@ I've made sure it's super user-friendly because, let's be honest, who wants to f
 
 ![image](https://github.com/Anas-Odeh/Image-Format-Conversion/assets/133384773/26572f31-8a69-4c0b-b9a1-469c1b44b564)
 
-# After installation, the app should show you the following window: 
+# After installation, the app should show you the following windows: 
+
+![image](https://github.com/Anas-Odeh/Image-Format-Conversion/assets/133384773/5f6252f5-98ec-43da-8072-3984b8b35550)
 
 
 
