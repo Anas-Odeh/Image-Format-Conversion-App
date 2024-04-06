@@ -29,6 +29,9 @@ I've made sure it's super user-friendly because, let's be honest, who wants to f
 
 ![image](https://github.com/Anas-Odeh/Image-Format-Conversion/assets/133384773/366dd0a0-1e0a-4dd9-abbd-7d1286de831d)
 
+**The main app window pop up with the following window:**
+![image](https://github.com/Anas-Odeh/Image-Format-Conversion/assets/133384773/69813a86-6cff-4eff-ad81-e21207dc1b17)
+
 
 2.Select the input folder of images you want to convert.
 
