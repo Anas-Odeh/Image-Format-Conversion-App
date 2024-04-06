@@ -27,8 +27,7 @@ I've made sure it's super user-friendly because, let's be honest, who wants to f
 
 # After installation, the app should show you the following windows: 
 
-![image](https://github.com/Anas-Odeh/Image-Format-Conversion/assets/133384773/5f6252f5-98ec-43da-8072-3984b8b35550)
-
+![image](https://github.com/Anas-Odeh/Image-Format-Conversion/assets/133384773/366dd0a0-1e0a-4dd9-abbd-7d1286de831d)
 
 
 2.Select the input folder of images you want to convert.
