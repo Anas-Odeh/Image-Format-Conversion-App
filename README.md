@@ -33,11 +33,11 @@ I've made sure it's super user-friendly because, let's be honest, who wants to f
 ![image](https://github.com/Anas-Odeh/Image-Format-Conversion/assets/133384773/69813a86-6cff-4eff-ad81-e21207dc1b17)
 
 
-2.Select the input folder of images you want to convert.
+2.Click on the Select the input folder of images button you want to convert.
 
 3.Choose the desired image format you would like to save as.
 
-4.Hit Start Analysis.
+4.Hit Start Analysis button.
 
 5. The Results will be save automatically to the same input folder you select it.
 
