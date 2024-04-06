@@ -1,13 +1,13 @@
 # **Image Format Conversion App**
 
-**What's This Thing All About?**
+# **What's This Thing All About?**
 
 In a nutshell, Image Format Converter is your go-to if you're looking to convert your pics to this specialized any format. Whether you've got JPEGs, PNGs, or TIFs , this tool's got you covered. 
 I've made sure it's super user-friendly because, let's be honest, who wants to fuss with complicated software?
 
 ---
 
-**Cool Features I've Thrown In:**
+# **Cool Features I've Thrown In:**
 
 ***Batch Conversion:** Got a bunch of images? No problem. Convert them all in one go.
 
@@ -31,19 +31,19 @@ I've made sure it's super user-friendly because, let's be honest, who wants to f
 
 ---
 
-**Why You Might Want to Use It:**
+# **Why You Might Want to Use It:**
 
 I built it for a specific biological project, but I reckon it could be handy for anyone who needs this particular format, whether it's for archiving, sharing with buddies, or whatever else you might need.
 
 ---
 
-**Pitch In, Why Don't Ya?**
+# **Pitch In, Why Don't Ya?**
 
 Got an idea to make it better? Found a bug that's bugging you? I'm all ears. Feel free to shout out, and let's make it even cooler together.
 
 ---
 
-**All the Boring Legal Stuff:**
+# **All the Boring Legal Stuff:**
 
 It's all under the Apache License, so check out the LICENSE file for the nitty-gritty.
 
