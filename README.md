@@ -23,11 +23,14 @@ I've made sure it's super user-friendly because, let's be honest, who wants to f
 
 1.Grab the Image Format Conversion App.exe from [here](https://github.com/Anas-Odeh/Image-Format-Conversion/releases/tag/v1.0.0) and run it. No need to install anything.
 
+![image](https://github.com/Anas-Odeh/Image-Format-Conversion/assets/133384773/26572f31-8a69-4c0b-b9a1-469c1b44b564)
+
+
 2.Pick the images you want to convert.
 
-3.Tweak the settings if you want to. Or don't. It's cool either way.
+3.Choose the desired image format you would like to save as.
 
-4.Hit convert and watch the magic happen.
+4.Hit Start Analysis.
 
 ---
 
