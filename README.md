@@ -21,7 +21,7 @@ I've made sure it's super user-friendly because, let's be honest, who wants to f
 
 **Getting Started Is a Breeze:**
 
-1.Grab the Image Format Conversion App.exe from here and run it. No need to install anything.
+1.Grab the Image Format Conversion App.exe from [here](https://github.com/Anas-Odeh/Image-Format-Conversion/releases/tag/v1.0.0) and run it. No need to install anything.
 
 2.Pick the images you want to convert.
 
